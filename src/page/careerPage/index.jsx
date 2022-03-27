@@ -4,7 +4,7 @@ import { Row, Col, Form, Button } from "react-bootstrap";
 const CareerPage = () => {
   return (
     <div className="page-outer">
-      <h1>Book A Tour</h1>
+      <h1>Career</h1>
       <div className="form-inner">
         <span>
           Thank you for considering a career with the Shing star Child Care
